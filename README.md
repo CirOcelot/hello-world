@@ -1,5 +1,4 @@
-# hello-world
-my first repository 
+# hello-world 
 Hello,
 This is my attempt to get a head start on my coding training.
 I've used a bit of HTML and JS, but Java is the only code I'm even slightly familiar with. 
